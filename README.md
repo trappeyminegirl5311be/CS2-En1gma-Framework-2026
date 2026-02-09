@@ -1,5 +1,7 @@
 CS2-En1gma-Framework-2026
+
 ![preview_b4e432a39dffc9ddd4d064f46e87bed4](https://github.com/user-attachments/assets/c9e87823-ab82-4490-bf9d-e7c61207f797)
+
 En1gma Utility for CS2: Redefine Your Gaming Experience
 
 Tired of the ordinary and looking for a way to elevate your gameplay in Counter-Strike 2 to a fundamentally new level? En1gma Utility is a cutting-edge, highly customizable software solution designed for the subtle enhancement of your gameplay, providing you with an undeniable tactical advantage.
